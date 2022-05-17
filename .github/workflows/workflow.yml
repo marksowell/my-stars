@@ -3,7 +3,7 @@ name: 'Update by stargazed'
 on:
   push:
     branches:
-     - master
+     - main
   schedule:
     -
       cron: '*/30 * * * *'
