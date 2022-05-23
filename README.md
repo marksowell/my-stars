@@ -72,7 +72,7 @@
 | 2 |  [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | SmartSystemMenu extends system menu of all windows in the system | AlexanderPro | 650 |
 | 3 |  [Rubeus](https://github.com/GhostPack/Rubeus) | Trying to tame the three-headed dog. | GhostPack | 2418 |
 | 4 |  [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline) | OffensivePipeline allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises. | Aetsu | 519 |
-| 5 |  [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) | carlospolop | 8733 |
+| 5 |  [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) | carlospolop | 8734 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -161,7 +161,7 @@
 | 5 |  [zap-extensions](https://github.com/zaproxy/zap-extensions) | OWASP ZAP Add-ons | zaproxy | 618 |
 | 6 |  [IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) | latest version of scanners for IIS short filename (8.3) disclosure vulnerability | irsdl | 830 |
 | 7 |  [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) | Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. | google | 7507 |
-| 8 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 32727 |
+| 8 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 32729 |
 | 9 |  [aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) | AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications. | aws | 268 |
 
 **[⬆ Back to Index](#-contents)**
@@ -315,7 +315,7 @@
 | 4 |  [starred](https://github.com/maguowei/starred) | creating your own Awesome List by GitHub stars! | maguowei | 1032 |
 | 5 |  [mitm6](https://github.com/dirkjanm/mitm6) | pwning IPv4 via IPv6 | dirkjanm | 1152 |
 | 6 |  [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) | A swiss army knife for pentesting networks | byt3bl33d3r | 5907 |
-| 7 |  [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints &amp; secrets. | dwisiswant0 | 2978 |
+| 7 |  [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints &amp; secrets. | dwisiswant0 | 2979 |
 | 8 |  [PIRANHA](https://github.com/SoftDesLab/PIRANHA) | Project for Software Design Laboratory -- Topic: Detecting Phishing Website with Machine Learning | SoftDesLab | 1 |
 | 9 |  [espoofer](https://github.com/chenjj/espoofer) | An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻 | chenjj | 783 |
 | 10 |  [PhishMailer](https://github.com/BiZken/PhishMailer) | Generate Professional Phishing Emails Fast And Easy | BiZken | 603 |
@@ -328,7 +328,7 @@
 | 17 |  [swaggerHole](https://github.com/Liodeus/swaggerHole) | A python3 script searching for secret on swaggerhub | Liodeus | 23 |
 | 18 |  [InvisibilityCloak](https://github.com/h4wkst3r/InvisibilityCloak) | Proof-of-concept obfuscation toolkit for C# post-exploitation tools | h4wkst3r | 159 |
 | 19 |  [macro_pack](https://github.com/sevagas/macro_pack) | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. | sevagas | 1550 |
-| 20 |  [hacktricks](https://github.com/carlospolop/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | carlospolop | 4599 |
+| 20 |  [hacktricks](https://github.com/carlospolop/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | carlospolop | 4600 |
 | 21 |  [Worse-PDF](https://github.com/3gstudent/Worse-PDF) | Turn a normal PDF file into malicious.Use to steal Net-NTLM Hashes from windows machines. | 3gstudent | 297 |
 | 22 |  [DNSStager](https://github.com/mhaskar/DNSStager) | Hide your payload in DNS | mhaskar | 497 |
 | 23 |  [NSGenCS](https://github.com/t3hbb/NSGenCS) | Extendable payload obfuscation and delivery framework | t3hbb | 115 |
@@ -377,7 +377,7 @@
 | 66 |  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | swisskyrepo | 37633 |
 | 67 |  [Photon](https://github.com/s0md3v/Photon) | Incredibly fast crawler designed for OSINT. | s0md3v | 8655 |
 | 68 |  [Mythic](https://github.com/its-a-feature/Mythic) | A collaborative, multi-platform, red teaming framework | its-a-feature | 1697 |
-| 69 |  [impacket](https://github.com/SecureAuthCorp/impacket) | Impacket is a collection of Python classes for working with network protocols. | SecureAuthCorp | 9000 |
+| 69 |  [impacket](https://github.com/SecureAuthCorp/impacket) | Impacket is a collection of Python classes for working with network protocols. | SecureAuthCorp | 9001 |
 | 70 |  [caldera](https://github.com/mitre/caldera) | Automated Adversary Emulation Platform | mitre | 3461 |
 | 71 |  [scapy](https://github.com/secdev/scapy) | Scapy: the Python-based interactive packet manipulation program &amp; library. Supports Python 2 &amp; Python 3. | secdev | 7567 |
 | 72 |  [byob](https://github.com/malwaredllc/byob) | An open-source post-exploitation framework for students, researchers and developers. | malwaredllc | 7445 |
@@ -464,7 +464,7 @@
 | 1 |  [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | FlareSolverr | 1105 |
 | 2 |  [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | slidevjs | 20539 |
 | 3 |  [vscode-autohide](https://github.com/sirmspencer/vscode-autohide) |  | sirmspencer | 24 |
-| 4 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 9750 |
+| 4 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 9751 |
 | 5 |  [juice-shop](https://github.com/juice-shop/juice-shop) | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application | juice-shop | 6812 |
 | 6 |  [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | Browser fingerprinting library with the highest accuracy and stability. | fingerprintjs | 16647 |
 | 7 |  [redux-devtools](https://github.com/reduxjs/redux-devtools) | DevTools for Redux with hot reloading, action replay, and customizable UI | reduxjs | 12735 |
