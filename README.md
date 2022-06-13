@@ -115,8 +115,8 @@
 | 3 |  [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customizable vulnerability scanner based on simple YAML based DSL. | projectdiscovery | 8607 |
 | 4 |  [dnsmorph](https://github.com/netevert/dnsmorph) | Domain name permutation engine written in Go | netevert | 187 |
 | 5 |  [evilginx2](https://github.com/kgretzky/evilginx2) | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication | kgretzky | 5483 |
-| 6 |  [osmedeus](https://github.com/j3ssie/osmedeus) | A Workflow Engine for Offensive Security | j3ssie | 3884 |
-| 7 |  [phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering &amp; OSINT framework for phone numbers | sundowndev | 6935 |
+| 6 |  [osmedeus](https://github.com/j3ssie/osmedeus) | A Workflow Engine for Offensive Security | j3ssie | 3885 |
+| 7 |  [phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering &amp; OSINT framework for phone numbers | sundowndev | 6936 |
 | 8 |  [xray](https://github.com/evilsocket/xray) | XRay is a tool for recon, mapping and OSINT gathering from public networks. | evilsocket | 1759 |
 | 9 |  [CheckPlease](https://github.com/Arvanaghi/CheckPlease) | Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust. | Arvanaghi | 739 |
 | 10 |  [interactsh](https://github.com/projectdiscovery/interactsh) | An OOB interaction gathering server and client library | projectdiscovery | 1603 |
@@ -125,11 +125,11 @@
 | 13 |  [httprobe](https://github.com/tomnomnom/httprobe) | Take a list of domains and probe for working HTTP and HTTPS servers | tomnomnom | 1962 |
 | 14 |  [xsshell](https://github.com/raz-varren/xsshell) | An XSS reverse shell framework | raz-varren | 285 |
 | 15 |  [reverse-scan](https://github.com/amine7536/reverse-scan) | Perform reverse DNS lookups on huge network ranges | amine7536 | 13 |
-| 16 |  [ffuf](https://github.com/ffuf/ffuf) | Fast web fuzzer written in Go | ffuf | 7051 |
+| 16 |  [ffuf](https://github.com/ffuf/ffuf) | Fast web fuzzer written in Go | ffuf | 7052 |
 | 17 |  [gophish](https://github.com/gophish/gophish) | Open-Source Phishing Toolkit | gophish | 7042 |
 | 18 |  [Amass](https://github.com/OWASP/Amass) | In-depth Attack Surface Mapping and Asset Discovery | OWASP | 7218 |
 | 19 |  [aquatone](https://github.com/michenriksen/aquatone) | A Tool for Domain Flyovers | michenriksen | 4648 |
-| 20 |  [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | syncthing | 45170 |
+| 20 |  [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | syncthing | 45171 |
 | 21 |  [vuls](https://github.com/future-architect/vuls) | Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices | future-architect | 9293 |
 | 22 |  [gobuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go | OJ | 6106 |
 | 23 |  [waybackurls](https://github.com/tomnomnom/waybackurls) | Fetch all the URLs that the Wayback Machine knows about for a domain | tomnomnom | 1908 |
@@ -170,7 +170,7 @@
 | 2 |  [JS2PDFInjector](https://github.com/cornerpirate/JS2PDFInjector) | Inject a JS file into a PDF file. | cornerpirate | 148 |
 | 3 |  [log4shell](https://github.com/LiveOverflow/log4shell) | Small example repo for looking into log4j CVE-2021-44228 | LiveOverflow | 64 |
 | 4 |  [CollaboratorPlusPlus](https://github.com/nccgroup/CollaboratorPlusPlus) |  | nccgroup | 124 |
-| 5 |  [log4j-scanner](https://github.com/cisagov/log4j-scanner) | log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. | cisagov | 1222 |
+| 5 |  [log4j-scanner](https://github.com/cisagov/log4j-scanner) | log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. | cisagov | 1223 |
 | 6 |  [zap-extensions](https://github.com/zaproxy/zap-extensions) | OWASP ZAP Add-ons | zaproxy | 624 |
 | 7 |  [IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) | latest version of scanners for IIS short filename (8.3) disclosure vulnerability | irsdl | 838 |
 | 8 |  [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) | Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. | google | 7530 |
@@ -184,9 +184,9 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 416 |
 | 2 |  [Sharedown](https://github.com/kylon/Sharedown) | Electron application to download Sharepoint videos (especially meant for students) | kylon | 115 |
-| 3 |  [rengine](https://github.com/yogeshojha/rengine) | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine&#39;s correlation, it just makes recon effortless. | yogeshojha | 4201 |
+| 3 |  [rengine](https://github.com/yogeshojha/rengine) | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine&#39;s correlation, it just makes recon effortless. | yogeshojha | 4202 |
 | 4 |  [OSINT-Framework](https://github.com/lockfale/OSINT-Framework) | OSINT Framework | lockfale | 4084 |
-| 5 |  [pennywise](https://github.com/kamranahmedse/pennywise) | Cross-platform application to open any website or media in a floating window | kamranahmedse | 3476 |
+| 5 |  [pennywise](https://github.com/kamranahmedse/pennywise) | Cross-platform application to open any website or media in a floating window | kamranahmedse | 3475 |
 | 6 |  [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Program for determining types of files for Windows, Linux and MacOS. | horsicq | 3578 |
 | 7 |  [jwt-cracker](https://github.com/lmammino/jwt-cracker) | Simple HS256 JWT token brute force cracker | lmammino | 579 |
 | 8 |  [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin | BloodHoundAD | 6854 |
@@ -225,7 +225,7 @@
 ## Objective-C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | utmapp | 12969 |
+| 1 |  [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | utmapp | 12970 |
 | 2 |  [imagesnap](https://github.com/rharder/imagesnap) | Capture Images from the Command Line | rharder | 402 |
 
 **[⬆ Back to Index](#-contents)**
@@ -341,11 +341,11 @@
 | 15 |  [lu3ky13-SCANNER](https://github.com/Lu3ky13/lu3ky13-SCANNER) | tools to find xss in a website | Lu3ky13 | 37 |
 | 16 |  [Corsy](https://github.com/s0md3v/Corsy) | CORS Misconfiguration Scanner | s0md3v | 994 |
 | 17 |  [lure](https://github.com/highmeh/lure) | Lure - User Recon Automation for GoPhish | highmeh | 134 |
-| 18 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes | yt-dlp | 26799 |
+| 18 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes | yt-dlp | 26802 |
 | 19 |  [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) | EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible. | FortyNorthSecurity | 3576 |
 | 20 |  [dnsrecon](https://github.com/darkoperator/dnsrecon) | DNS Enumeration Script | darkoperator | 1866 |
 | 21 |  [swaggerHole](https://github.com/Liodeus/swaggerHole) | A python3 script searching for secret on swaggerhub | Liodeus | 24 |
-| 22 |  [InvisibilityCloak](https://github.com/h4wkst3r/InvisibilityCloak) | Proof-of-concept obfuscation toolkit for C# post-exploitation tools | h4wkst3r | 175 |
+| 22 |  [InvisibilityCloak](https://github.com/h4wkst3r/InvisibilityCloak) | Proof-of-concept obfuscation toolkit for C# post-exploitation tools | h4wkst3r | 176 |
 | 23 |  [macro_pack](https://github.com/sevagas/macro_pack) | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. | sevagas | 1604 |
 | 24 |  [hacktricks](https://github.com/carlospolop/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | carlospolop | 4684 |
 | 25 |  [Worse-PDF](https://github.com/3gstudent/Worse-PDF) | Turn a normal PDF file into malicious.Use to steal Net-NTLM Hashes from windows machines. | 3gstudent | 297 |
@@ -390,11 +390,11 @@
 | 64 |  [sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool | sqlmapproject | 23730 |
 | 65 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 14332 |
 | 66 |  [Windows-Exploit-Suggester](https://github.com/aysebilgegunduz/Windows-Exploit-Suggester) | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | aysebilgegunduz | 3 |
-| 67 |  [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | AonCyberLabs | 3221 |
+| 67 |  [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | AonCyberLabs | 3222 |
 | 68 |  [JustTryHarder](https://github.com/sinfulz/JustTryHarder) | JustTryHarder, a cheat sheet which will aid you through the PWK course &amp; the OSCP Exam. (Inspired by PayloadAllTheThings) | sinfulz | 663 |
 | 69 |  [ShellPop](https://github.com/0x00-0x00/ShellPop) | Pop shells like a master. | 0x00-0x00 | 1334 |
-| 70 |  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | swisskyrepo | 38186 |
-| 71 |  [Photon](https://github.com/s0md3v/Photon) | Incredibly fast crawler designed for OSINT. | s0md3v | 8726 |
+| 70 |  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | swisskyrepo | 38187 |
+| 71 |  [Photon](https://github.com/s0md3v/Photon) | Incredibly fast crawler designed for OSINT. | s0md3v | 8727 |
 | 72 |  [Mythic](https://github.com/its-a-feature/Mythic) | A collaborative, multi-platform, red teaming framework | its-a-feature | 1756 |
 | 73 |  [impacket](https://github.com/SecureAuthCorp/impacket) | Impacket is a collection of Python classes for working with network protocols. | SecureAuthCorp | 9124 |
 | 74 |  [caldera](https://github.com/mitre/caldera) | Automated Adversary Emulation Platform | mitre | 3521 |
@@ -452,7 +452,7 @@
 | 6 |  [CVE-2022-0847-dirty-pipe-checker](https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker) | Bash script to check for CVE-2022-0847 &#34;Dirty Pipe&#34; | basharkey | 39 |
 | 7 |  [oss-fuzz](https://github.com/google/oss-fuzz) | OSS-Fuzz - continuous fuzzing for open source software. | google | 7495 |
 | 8 |  [testssl.sh](https://github.com/drwetter/testssl.sh) | Testing TLS/SSL encryption anywhere on any port | drwetter | 6125 |
-| 9 |  [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | Linux privilege escalation auditing tool | mzet- | 3569 |
+| 9 |  [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | Linux privilege escalation auditing tool | mzet- | 3570 |
 | 10 |  [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) | Linux enumeration tool for pentesting and CTFs with verbosity levels | diego-treitos | 2245 |
 | 11 |  [Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) | Compilation of Resources from TCM&#39;s OSINT Course | TCM-Course-Resources | 312 |
 | 12 |  [breach-parse](https://github.com/hmaverickadams/breach-parse) | A tool for parsing breached passwords | hmaverickadams | 1043 |
@@ -483,11 +483,11 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 54009 |
 | 2 |  [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | FlareSolverr | 1171 |
-| 3 |  [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | slidevjs | 20974 |
+| 3 |  [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | slidevjs | 20976 |
 | 4 |  [vscode-autohide](https://github.com/sirmspencer/vscode-autohide) |  | sirmspencer | 25 |
-| 5 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 9981 |
+| 5 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 9982 |
 | 6 |  [juice-shop](https://github.com/juice-shop/juice-shop) | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application | juice-shop | 6892 |
-| 7 |  [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | Browser fingerprinting library with the highest accuracy and stability. | fingerprintjs | 16767 |
+| 7 |  [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | Browser fingerprinting library with the highest accuracy and stability. | fingerprintjs | 16768 |
 | 8 |  [redux-devtools](https://github.com/reduxjs/redux-devtools) | DevTools for Redux with hot reloading, action replay, and customizable UI | reduxjs | 12799 |
 
 **[⬆ Back to Index](#-contents)**
