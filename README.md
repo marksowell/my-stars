@@ -66,7 +66,7 @@
 | 7 |  [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) | A cross-platform protocol library to communicate with iOS devices | libimobiledevice | 5280 |
 | 8 |  [mkp224o](https://github.com/cathugger/mkp224o) | vanity address generator for tor onion v3 (ed25519) hidden services | cathugger | 824 |
 | 9 |  [ike-scan](https://github.com/royhills/ike-scan) | The IKE Scanner | royhills | 298 |
-| 10 |  [seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | haiwen | 10182 |
+| 10 |  [seafile](https://github.com/haiwen/seafile) | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | haiwen | 10183 |
 | 11 |  [CVE-2022-0847-DirtyPipe-Exploits](https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits) | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | AlexisAhmed | 341 |
 | 12 |  [EtherApe](https://github.com/IFGHou/EtherApe) | A graphical network monitor for Unix modeled after etherman. | IFGHou | 32 |
 | 13 |  [yara](https://github.com/plusvic/yara) | The pattern matching swiss knife | plusvic | 129 |
@@ -100,7 +100,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [iaito](https://github.com/radareorg/iaito) | Official QT frontend of radare2 | radareorg | 460 |
 | 2 |  [futurerestore](https://github.com/futurerestore/futurerestore) | A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring | futurerestore | 385 |
-| 3 |  [mongo](https://github.com/mongodb/mongo) | The MongoDB Database | mongodb | 22788 |
+| 3 |  [mongo](https://github.com/mongodb/mongo) | The MongoDB Database | mongodb | 22789 |
 | 4 |  [Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) |  | mandiant | 135 |
 | 5 |  [HTran](https://github.com/HiwinCN/HTran) | HTran is a connection bouncer, a kind of proxy server. A “listener” program is hacked stealthily onto an unsuspecting host anywhere on the Internet. When it receives signals from the actual target system, it redirects it to the hacker’s server. | HiwinCN | 219 |
 | 6 |  [InviZzzible](https://github.com/CheckPointSW/InviZzzible) | InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them. | CheckPointSW | 392 |
@@ -131,7 +131,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. | projectdiscovery | 3902 |
+| 1 |  [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. | projectdiscovery | 3904 |
 | 2 |  [unlocker](https://github.com/DrDonk/unlocker) | VMware macOS utilities | DrDonk | 1155 |
 | 3 |  [AzureHound](https://github.com/BloodHoundAD/AzureHound) | Azure Data Exporter for BloodHound | BloodHoundAD | 95 |
 | 4 |  [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find credentials all over the place | trufflesecurity | 9696 |
@@ -156,7 +156,7 @@
 | 23 |  [aquatone](https://github.com/michenriksen/aquatone) | A Tool for Domain Flyovers | michenriksen | 4882 |
 | 24 |  [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | syncthing | 47707 |
 | 25 |  [vuls](https://github.com/future-architect/vuls) | Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices | future-architect | 9626 |
-| 26 |  [gobuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go | OJ | 6821 |
+| 26 |  [gobuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go | OJ | 6822 |
 | 27 |  [waybackurls](https://github.com/tomnomnom/waybackurls) | Fetch all the URLs that the Wayback Machine knows about for a domain | tomnomnom | 2224 |
 
 **[⬆ Back to Index](#-contents)**
@@ -244,7 +244,7 @@
 ## Jupyter Notebook
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | The-Art-of-Hacking | 12297 |
+| 1 |  [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | The-Art-of-Hacking | 12298 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -275,7 +275,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Keychain-Dumper](https://github.com/mechanico/Keychain-Dumper) | A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken | mechanico | 23 |
-| 2 |  [ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications. | nabla-c0d3 | 2685 |
+| 2 |  [ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications. | nabla-c0d3 | 2686 |
 | 3 |  [client-sdk-iOS-getting-started](https://github.com/zoom/client-sdk-iOS-getting-started) |  | zoom | 10 |
 | 4 |  [ios-deploy](https://github.com/ios-control/ios-deploy) | Install and debug iPhone apps from the command line, without using Xcode | ios-control | 2957 |
 | 5 |  [imagesnap](https://github.com/rharder/imagesnap) | Capture Images from the Command Line | rharder | 407 |
@@ -301,7 +301,7 @@
 | 14 |  [my-stars](https://github.com/marksowell/my-stars) | A curated list of my GitHub stars by stargazed | marksowell | 3 |
 | 15 |  [TCM-Security-Sample-Pentest-Report](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report) | Sample pentest report provided by TCM Security | hmaverickadams | 687 |
 | 16 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 69 |
-| 17 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 82340 |
+| 17 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 82342 |
 | 18 |  [Sharepoint-URL-Fuzzlist](https://github.com/XalfiE/Sharepoint-URL-Fuzzlist) |  | XalfiE | 23 |
 | 19 |  [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) | Potentially dangerous files | Bo0oM | 2301 |
 | 20 |  [Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads) | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target&#39;s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | RoseSecurity | 444 |
@@ -326,7 +326,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) | It counts how many times your GitHub profile has been viewed. Free cloud micro-service. | antonkomarev | 2354 |
 | 2 |  [phpggc](https://github.com/ambionics/phpggc) | PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically. | ambionics | 2459 |
-| 3 |  [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | danielmiessler | 43018 |
+| 3 |  [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | danielmiessler | 43019 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -437,7 +437,7 @@
 | 58 |  [scan4log4shell](https://github.com/xforcered/scan4log4shell) | A Burp Pro extension that adds log4shell checks to Burp Scanner. | xforcered | 26 |
 | 59 |  [pwncat](https://github.com/calebstewart/pwncat) | Fancy reverse and bind shell handler | calebstewart | 1758 |
 | 60 |  [log4shell](https://github.com/NCSC-NL/log4shell) | Operational information regarding the log4shell vulnerabilities in the Log4j logging library. | NCSC-NL | 1887 |
-| 61 |  [wafw00f](https://github.com/EnableSecurity/wafw00f) | WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website. | EnableSecurity | 3724 |
+| 61 |  [wafw00f](https://github.com/EnableSecurity/wafw00f) | WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website. | EnableSecurity | 3725 |
 | 62 |  [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. | OWASP | 22145 |
 | 63 |  [HostHunter](https://github.com/SpiderLabs/HostHunter) | HostHunter a recon tool for discovering hostnames using OSINT techniques. | SpiderLabs | 788 |
 | 64 |  [WhatWaf](https://github.com/Ekultek/WhatWaf) | Detect and bypass web application firewalls and protection systems | Ekultek | 2082 |
@@ -458,7 +458,7 @@
 | 79 |  [Pentest-Cheatsheets](https://github.com/Tib3rius/Pentest-Cheatsheets) |  | Tib3rius | 720 |
 | 80 |  [sipvicious](https://github.com/EnableSecurity/sipvicious) | SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications. | EnableSecurity | 693 |
 | 81 |  [threader3000](https://github.com/dievus/threader3000) | Multi-threaded Python Port Scanner with Nmap Integration | dievus | 254 |
-| 82 |  [dirsearch](https://github.com/maurosoria/dirsearch) | Web path scanner | maurosoria | 8813 |
+| 82 |  [dirsearch](https://github.com/maurosoria/dirsearch) | Web path scanner | maurosoria | 8814 |
 | 83 |  [hash-identifier](https://github.com/blackploit/hash-identifier) | Software to identify the different types of hashes used to encrypt data and especially passwords | blackploit | 349 |
 | 84 |  [smbmap](https://github.com/ShawnDEvans/smbmap) | SMBMap is a handy SMB enumeration tool | ShawnDEvans | 1402 |
 | 85 |  [w3af](https://github.com/andresriancho/w3af) | w3af: web application attack and audit framework, the open source web vulnerability scanner. | andresriancho | 4073 |
@@ -497,7 +497,7 @@
 | 3 |  [dradis-ce](https://github.com/dradis/dradis-ce) | Dradis Framework: Colllaboration and reporting for IT Security teams | dradis | 531 |
 | 4 |  [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) | Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site | jekyll | 875 |
 | 5 |  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) | A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site&#39;s content. | jekyll | 1458 |
-| 6 |  [evil-winrm](https://github.com/Hackplayers/evil-winrm) | The ultimate WinRM shell for hacking/pentesting | Hackplayers | 3029 |
+| 6 |  [evil-winrm](https://github.com/Hackplayers/evil-winrm) | The ultimate WinRM shell for hacking/pentesting | Hackplayers | 3030 |
 | 7 |  [wpscan](https://github.com/wpscanteam/wpscan) | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. | wpscanteam | 7111 |
 | 8 |  [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | rapid7 | 28726 |
 | 9 |  [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) | :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report | noraj | 2589 |
@@ -507,12 +507,12 @@
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 38127 |
-| 2 |  [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. | rustdesk | 32700 |
+| 1 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 38128 |
+| 2 |  [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. | rustdesk | 32702 |
 | 3 |  [feroxbuster](https://github.com/epi052/feroxbuster) | A fast, simple, recursive content discovery tool written in Rust. | epi052 | 3343 |
 | 4 |  [scrying](https://github.com/nccgroup/scrying) | A tool for collecting RDP, web and VNC screenshots all in one place | nccgroup | 312 |
 | 5 |  [chainsaw](https://github.com/WithSecureLabs/chainsaw) | Rapidly Search and Hunt through Windows Forensic Artefacts | WithSecureLabs | 1731 |
-| 6 |  [RustScan](https://github.com/RustScan/RustScan) | 🤖 The Modern Port Scanner 🤖 | RustScan | 8300 |
+| 6 |  [RustScan](https://github.com/RustScan/RustScan) | 🤖 The Modern Port Scanner 🤖 | RustScan | 8301 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -536,7 +536,7 @@
 | 1 |  [powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme | romkatv | 32445 |
 | 2 |  [IPMIView.app](https://github.com/TheCase/IPMIView.app) | MacOS App wrapper for Supermicro&#39;s IPMIView/iKVM java app | TheCase | 149 |
 | 3 |  [MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) | A Magisk module that automatically adds user certificates to the system root CA store | NVISOsecurity | 999 |
-| 4 |  [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | sickcodes | 24517 |
+| 4 |  [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | sickcodes | 24516 |
 | 5 |  [autoenv](https://github.com/hyperupcall/autoenv) | Directory-based environments | hyperupcall | 5063 |
 | 6 |  [AllVideoPocsFromHackerOne](https://github.com/zeroc00I/AllVideoPocsFromHackerOne) | This script grab public report from hacker one and make some folders with poc videos | zeroc00I | 736 |
 | 7 |  [4-ZERO-3](https://github.com/Dheerajmadhukar/4-ZERO-3) | 403/401 Bypass Methods + Bash Automation + Your Support ;) | Dheerajmadhukar | 588 |
@@ -549,7 +549,7 @@
 | 14 |  [testssl.sh](https://github.com/drwetter/testssl.sh) | Testing TLS/SSL encryption anywhere on any port | drwetter | 6539 |
 | 15 |  [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | Linux privilege escalation auditing tool | mzet- | 3964 |
 | 16 |  [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) | Linux enumeration tool for pentesting and CTFs with verbosity levels | diego-treitos | 2494 |
-| 17 |  [Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) | Compilation of Resources from TCM&#39;s OSINT Course | TCM-Course-Resources | 433 |
+| 17 |  [Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) | Compilation of Resources from TCM&#39;s OSINT Course | TCM-Course-Resources | 434 |
 | 18 |  [breach-parse](https://github.com/hmaverickadams/breach-parse) | A tool for parsing breached passwords | hmaverickadams | 1212 |
 | 19 |  [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) | This is a multi-use bash script for Linux systems to audit wireless networks. | v1s1t0r1sh3r3 | 4524 |
 | 20 |  [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) | A curated list of the most common and most interesting robots.txt disallowed directories. | danielmiessler | 1211 |
