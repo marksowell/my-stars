@@ -57,9 +57,9 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero | UberGuidoZ | 6346 |
+| 1 |  [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero | UberGuidoZ | 6347 |
 | 2 |  [flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | RogueMaster Flipper Zero Firmware | RogueMaster | 3000 |
-| 3 |  [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware | DarkFlippers | 7338 |
+| 3 |  [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware | DarkFlippers | 7339 |
 | 4 |  [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware source code | flipperdevices | 6617 |
 | 5 |  [microsocks](https://github.com/rofl0r/microsocks) | tiny, portable SOCKS5 server with very moderate resource usage | rofl0r | 1058 |
 | 6 |  [zmap](https://github.com/zmap/zmap) | ZMap is a fast single packet network scanner designed for Internet-wide network surveys. | zmap | 4724 |
@@ -77,7 +77,7 @@
 | 18 |  [yara](https://github.com/VirusTotal/yara) | The pattern matching swiss knife | VirusTotal | 6629 |
 | 19 |  [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) | Abusing Impersonation Privileges on Windows 10 and Server 2019 | itm4n | 1425 |
 | 20 |  [mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) | OpenID Certified™ OpenID Connect Relying Party implementation for Apache HTTP Server 2.x | OpenIDC | 871 |
-| 21 |  [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | robertdavidgraham | 20938 |
+| 21 |  [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | robertdavidgraham | 20937 |
 | 22 |  [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) | windows-kernel-exploits   Windows平台提权漏洞集合 | SecWiki | 7130 |
 | 23 |  [hashcat](https://github.com/hashcat/hashcat) | World&#39;s fastest and most advanced password recovery utility | hashcat | 17095 |
 | 24 |  [fio](https://github.com/axboe/fio) | Flexible I/O Tester | axboe | 4142 |
@@ -96,7 +96,7 @@
 | 7 |  [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | SmartSystemMenu extends system menu of all windows in the system | AlexanderPro | 916 |
 | 8 |  [Rubeus](https://github.com/GhostPack/Rubeus) | Trying to tame the three-headed dog. | GhostPack | 3169 |
 | 9 |  [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline) | OfensivePipeline allows you to download and build C# tools, applying certain modifications in order to improve their evasion for Red Team exercises. | Aetsu | 724 |
-| 10 |  [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) | carlospolop | 12026 |
+| 10 |  [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) | carlospolop | 12027 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -132,7 +132,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [macos_ui](https://github.com/macosui/macos_ui) | Flutter widgets and themes implementing the current macOS design language. | macosui | 1328 |
-| 2 |  [awesome-flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | Solido | 46474 |
+| 2 |  [awesome-flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | Solido | 46475 |
 | 3 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 152498 |
 
 **[⬆ Back to Index](#-contents)**
@@ -147,15 +147,15 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | avelino | 100460 |
+| 1 |  [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | avelino | 100462 |
 | 2 |  [APKHunt](https://github.com/Cyber-Buddy/APKHunt) | APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although APKHunt is intended primarily for mobile app developers and security testers, it can be used by anyone to identify and address potential security vulnerabilities in their code. | Cyber-Buddy | 414 |
-| 3 |  [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. | projectdiscovery | 6258 |
+| 3 |  [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. | projectdiscovery | 6259 |
 | 4 |  [unlocker](https://github.com/DrDonk/unlocker) | VMware macOS utilities | DrDonk | 1892 |
 | 5 |  [AzureHound](https://github.com/BloodHoundAD/AzureHound) | Azure Data Exporter for BloodHound | BloodHoundAD | 237 |
 | 6 |  [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find and verify credentials | trufflesecurity | 11050 |
-| 7 |  [dalfox](https://github.com/hahwul/dalfox) | 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. | hahwul | 2489 |
+| 7 |  [dalfox](https://github.com/hahwul/dalfox) | 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. | hahwul | 2490 |
 | 8 |  [subjack](https://github.com/haccer/subjack) | Subdomain Takeover tool written in Go | haccer | 1691 |
-| 9 |  [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customizable vulnerability scanner based on simple YAML based DSL. | projectdiscovery | 12667 |
+| 9 |  [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customizable vulnerability scanner based on simple YAML based DSL. | projectdiscovery | 12669 |
 | 10 |  [dnsmorph](https://github.com/netevert/dnsmorph) | Domain name permutation engine written in Go | netevert | 197 |
 | 11 |  [evilginx2](https://github.com/kgretzky/evilginx2) | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication | kgretzky | 7202 |
 | 12 |  [osmedeus](https://github.com/j3ssie/osmedeus) | A Workflow Engine for Offensive Security | j3ssie | 4409 |
@@ -199,7 +199,7 @@
 | 8 |  [SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) | A wiki focusing on aggregating and documenting various SQL injection methods | NetSPI | 705 |
 | 9 |  [PayloadsAllTheThings](https://github.com/cyberheartmi9/PayloadsAllTheThings) |  | cyberheartmi9 | 302 |
 | 10 |  [turndown](https://github.com/mixmark-io/turndown) | 🛏 An HTML to Markdown converter written in JavaScript | mixmark-io | 6801 |
-| 11 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 13587 |
+| 11 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 13588 |
 | 12 |  [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems | GTFOBins | 8266 |
 
 **[⬆ Back to Index](#-contents)**
@@ -210,12 +210,12 @@
 | 1 |  [akto-burp-extension](https://github.com/akto-api-security/akto-burp-extension) | A Burp extension to send data to Akto dashboard | akto-api-security | 5 |
 | 2 |  [crAPI](https://github.com/OWASP/crAPI) | completely ridiculous API (crAPI) | OWASP | 699 |
 | 3 |  [tests-library](https://github.com/akto-api-security/tests-library) | Community generated list of API security tests to find OWASP top10, HackerOne top 10 vulnerabilities | akto-api-security | 14 |
-| 4 |  [akto](https://github.com/akto-api-security/akto) | Instant, Open source API security → API discovery, automated business logic testing and runtime detection. | akto-api-security | 334 |
+| 4 |  [akto](https://github.com/akto-api-security/akto) | Instant, Open source API security → API discovery, automated business logic testing and runtime detection. | akto-api-security | 335 |
 | 5 |  [http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) |  | PortSwigger | 876 |
 | 6 |  [diva-android](https://github.com/payatu/diva-android) | DIVA Android - Damn Insecure and vulnerable App for Android | payatu | 808 |
 | 7 |  [ovaa](https://github.com/oversecured/ovaa) | Oversecured Vulnerable Android App | oversecured | 453 |
 | 8 |  [MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground) |  | OWASP | 496 |
-| 9 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 34283 |
+| 9 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 34284 |
 | 10 |  [DependencyCheck](https://github.com/jeremylong/DependencyCheck) | OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. | jeremylong | 5020 |
 | 11 |  [ShowPolicyPackage](https://github.com/CheckPointSW/ShowPolicyPackage) | Check Point ShowPolicyPackage tool shows the content of a policy package (layers, rulebase, objects) over HTML pages. | CheckPointSW | 26 |
 | 12 |  [blobsaver](https://github.com/airsquared/blobsaver) | A cross-platform GUI and CLI app for automatically saving SHSH blobs | airsquared | 1491 |
@@ -227,7 +227,7 @@
 | 18 |  [zap-extensions](https://github.com/zaproxy/zap-extensions) | OWASP ZAP Add-ons | zaproxy | 728 |
 | 19 |  [IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) | latest version of scanners for IIS short filename (8.3) disclosure vulnerability | irsdl | 989 |
 | 20 |  [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) | Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. | google | 7836 |
-| 21 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 39103 |
+| 21 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 39104 |
 | 22 |  [aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) | (End of life: May 31, 2023) AWS Toolkit for Eclipse | aws | 275 |
 
 **[⬆ Back to Index](#-contents)**
@@ -237,7 +237,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 19746 |
 | 2 |  [requestly](https://github.com/requestly/requestly) | 🚀 Most Popular developer tool for frontend developers &amp; QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts &amp; Report Bugs with debugging sessions. | requestly | 744 |
-| 3 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 60016 |
+| 3 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 60017 |
 | 4 |  [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | expressjs | 60678 |
 | 5 |  [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated auditing, performance metrics, and best practices for the web. | GoogleChrome | 26421 |
 | 6 |  [Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) |  | trufflesecurity | 322 |
@@ -247,7 +247,7 @@
 | 10 |  [appledb](https://github.com/littlebyteorg/appledb) |  | littlebyteorg | 121 |
 | 11 |  [meetingsdk-auth-endpoint-sample](https://github.com/zoom/meetingsdk-auth-endpoint-sample) | Generate a Meeting SDK JWT to join Zoom meetings and webinars with the Meeting SDK. | zoom | 83 |
 | 12 |  [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. | MobSF | 13920 |
-| 13 |  [badges](https://github.com/aleen42/badges) | :flower_playing_cards: Standard and acceptable badges list | aleen42 | 363 |
+| 13 |  [badges](https://github.com/aleen42/badges) | :flower_playing_cards: Standard and acceptable badges list | aleen42 | 364 |
 | 14 |  [zoomapps-advancedsample-react](https://github.com/zoom/zoomapps-advancedsample-react) | This repository contains an Advanced Zoom Apps Sample. It should serve as a starting point for you to build and test your own Zoom App in development. | zoom | 18 |
 | 15 |  [zoom-oauth-sample-app](https://github.com/zoom/zoom-oauth-sample-app) | Sample Zoom Oauth App NodeJS app to call Zoom&#39;s APIs | zoom | 79 |
 | 16 |  [webhook-sample](https://github.com/zoom/webhook-sample) | Receive Zoom webhooks. | zoom | 9 |
@@ -300,7 +300,7 @@
 ## Makefile
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 128704 |
+| 1 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 128707 |
 | 2 |  [zoom-jailbreak-detection-bypass](https://github.com/ElioFegh/zoom-jailbreak-detection-bypass) | hides jb popup from zoom app | ElioFegh | 3 |
 | 3 |  [frida](https://github.com/frida/frida) | Clone this repo to build Frida | frida | 12187 |
 
@@ -326,13 +326,13 @@
 | 3 |  [HolyTips](https://github.com/HolyBugx/HolyTips) | A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security. | HolyBugx | 1485 |
 | 4 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 40678 |
 | 5 |  [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | wasabeef | 46128 |
-| 6 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 50829 |
-| 7 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 64180 |
-| 8 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 250859 |
+| 6 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 50830 |
+| 7 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 64182 |
+| 8 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 250864 |
 | 9 |  [ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) | Orange Cyberdefense mindmaps | Orange-Cyberdefense | 540 |
 | 10 |  [zoom-sdk-android](https://github.com/zoom/zoom-sdk-android) | Zoom Android SDK | zoom | 156 |
 | 11 |  [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) | A list of resources for those interested in getting started in bug bounties | nahamsec | 9004 |
-| 12 |  [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) | 🐬 A collection of awesome resources for the Flipper Zero device. | djsime1 | 9762 |
+| 12 |  [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) | 🐬 A collection of awesome resources for the Flipper Zero device. | djsime1 | 9763 |
 | 13 |  [UCS-KVM](https://github.com/Kris-Sekula/UCS-KVM) | Some tips on getting into a UCS KVM without Adobe Flash Installed | Kris-Sekula | 20 |
 | 14 |  [Cybersecurity-Roadmap](https://github.com/0xTRAW/Cybersecurity-Roadmap) |  | 0xTRAW | 466 |
 | 15 |  [Practical-Ethical-Hacking-FAQ](https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ) | FAQ Guide for Practical Ethical Hacking Udemy Course | hmaverickadams | 156 |
@@ -349,7 +349,7 @@
 | 26 |  [my-stars](https://github.com/marksowell/my-stars) | A curated list of my GitHub stars by stargazed | marksowell | 4 |
 | 27 |  [TCM-Security-Sample-Pentest-Report](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report) | Sample pentest report provided by TCM Security | hmaverickadams | 788 |
 | 28 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 71 |
-| 29 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 96128 |
+| 29 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 96130 |
 | 30 |  [Sharepoint-URL-Fuzzlist](https://github.com/XalfiE/Sharepoint-URL-Fuzzlist) |  | XalfiE | 25 |
 | 31 |  [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) | Potentially dangerous files | Bo0oM | 2448 |
 | 32 |  [Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads) | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target&#39;s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | RoseSecurity | 507 |
@@ -358,7 +358,7 @@
 | 35 |  [marksowell](https://github.com/marksowell/marksowell) |  | marksowell | 1 |
 | 36 |  [Virtual_EXOS](https://github.com/extremenetworks/Virtual_EXOS) | EXOS VM images are provided for testing in virtual environments such as Virtualbox or VMware. | extremenetworks | 158 |
 | 37 |  [svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) | A cheatsheet for exploiting server-side SVG processors. | allanlw | 566 |
-| 38 |  [awesome-pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools and other shiny things | enaqx | 18329 |
+| 38 |  [awesome-pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools and other shiny things | enaqx | 18330 |
 | 39 |  [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) | All the deals for InfoSec related software/tools this Black Friday | 0x90n | 1961 |
 | 40 |  [OSCP-Exam-Report-Template](https://github.com/whoisflynn/OSCP-Exam-Report-Template) | Modified template for the OSCP Exam and Labs. Used during my passing attempt | whoisflynn | 837 |
 | 41 |  [xss-payload-list](https://github.com/payloadbox/xss-payload-list) | 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List | payloadbox | 4399 |
@@ -401,9 +401,9 @@
 | 1 |  [DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) | DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS! | dafthack | 1384 |
 | 2 |  [Empire](https://github.com/BC-SECURITY/Empire) | Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers. | BC-SECURITY | 3275 |
 | 3 |  [Security-Datasets](https://github.com/OTRF/Security-Datasets) | Re-play Security Events | OTRF | 1398 |
-| 4 |  [luckystrike](https://github.com/curi0usJack/luckystrike) | A PowerShell based utility for the creation of malicious Office macro documents. | curi0usJack | 1071 |
+| 4 |  [luckystrike](https://github.com/curi0usJack/luckystrike) | A PowerShell based utility for the creation of malicious Office macro documents. | curi0usJack | 1070 |
 | 5 |  [PSSW100AVB](https://github.com/tihanyin/PSSW100AVB) | A list of useful Powershell scripts with 100% AV bypass (At the time of publication). | tihanyin | 977 |
-| 6 |  [Ninja](https://github.com/ahmedkhlief/Ninja) | Open source C2 server created for stealth red team operations | ahmedkhlief | 686 |
+| 6 |  [Ninja](https://github.com/ahmedkhlief/Ninja) | Open source C2 server created for stealth red team operations | ahmedkhlief | 687 |
 | 7 |  [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | Small and highly portable detection tests based on MITRE&#39;s ATT&amp;CK. | redcanaryco | 7473 |
 | 8 |  [MailSniper](https://github.com/dafthack/MailSniper) | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain. | dafthack | 2485 |
 | 9 |  [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) |  | S3cur3Th1sSh1t | 1109 |
@@ -429,7 +429,7 @@
 | 2 |  [Findings-Tracker](https://github.com/marksowell/Findings-Tracker) | Burp Suite extension designed to help security professionals manage and track web application security findings | marksowell | 1 |
 | 3 |  [Info-Leakage](https://github.com/marksowell/Info-Leakage) | Burp Suite extension designed to help security professionals search for custom sensitive information in HTTP responses | marksowell | 3 |
 | 4 |  [upload_bypass](https://github.com/sAjibuu/upload_bypass) | File upload restrictions bypass, by using different bug bounty techniques! | sAjibuu | 223 |
-| 5 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 165703 |
+| 5 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 165706 |
 | 6 |  [commix](https://github.com/commixproject/commix) | Automated All-in-One OS Command Injection Exploitation Tool. | commixproject | 3770 |
 | 7 |  [toxssin](https://github.com/t3l3machus/toxssin) | An XSS exploitation command-line interface and payload generator. | t3l3machus | 833 |
 | 8 |  [binwalk](https://github.com/ReFirmLabs/binwalk) | Firmware Analysis Tool | ReFirmLabs | 9211 |
@@ -519,7 +519,7 @@
 | 92 |  [threader3000](https://github.com/dievus/threader3000) | Multi-threaded Python Port Scanner with Nmap Integration | dievus | 279 |
 | 93 |  [dirsearch](https://github.com/maurosoria/dirsearch) | Web path scanner | maurosoria | 9581 |
 | 94 |  [hash-identifier](https://github.com/blackploit/hash-identifier) | Software to identify the different types of hashes used to encrypt data and especially passwords | blackploit | 385 |
-| 95 |  [smbmap](https://github.com/ShawnDEvans/smbmap) | SMBMap is a handy SMB enumeration tool | ShawnDEvans | 1474 |
+| 95 |  [smbmap](https://github.com/ShawnDEvans/smbmap) | SMBMap is a handy SMB enumeration tool | ShawnDEvans | 1475 |
 | 96 |  [w3af](https://github.com/andresriancho/w3af) | w3af: web application attack and audit framework, the open source web vulnerability scanner. | andresriancho | 4209 |
 | 97 |  [tilde_enum](https://github.com/WebBreacher/tilde_enum) | Takes a URL and checks the system for the tilde enum vuln and then find the files. | WebBreacher | 161 |
 | 98 |  [IIS_shortname_Scanner](https://github.com/lijiejie/IIS_shortname_Scanner) | an IIS shortname Scanner | lijiejie | 455 |
@@ -529,7 +529,7 @@
 | 102 |  [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | AonCyberLabs | 3554 |
 | 103 |  [JustTryHarder](https://github.com/sinfulz/JustTryHarder) | JustTryHarder, a cheat sheet which will aid you through the PWK course &amp; the OSCP Exam. (Inspired by PayloadAllTheThings) | sinfulz | 725 |
 | 104 |  [ShellPop](https://github.com/0x00-0x00/ShellPop) | Pop shells like a master. | 0x00-0x00 | 1371 |
-| 105 |  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | swisskyrepo | 47253 |
+| 105 |  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | swisskyrepo | 47254 |
 | 106 |  [Photon](https://github.com/s0md3v/Photon) | Incredibly fast crawler designed for OSINT. | s0md3v | 9561 |
 | 107 |  [Mythic](https://github.com/its-a-feature/Mythic) | A collaborative, multi-platform, red teaming framework | its-a-feature | 2236 |
 | 108 |  [impacket](https://github.com/fortra/impacket) | Impacket is a collection of Python classes for working with network protocols. | fortra | 11021 |
@@ -537,7 +537,7 @@
 | 110 |  [scapy](https://github.com/secdev/scapy) | Scapy: the Python-based interactive packet manipulation program &amp; library. Supports Python 2 &amp; Python 3. | secdev | 8686 |
 | 111 |  [byob](https://github.com/malwaredllc/byob) | An open-source post-exploitation framework for students, researchers and developers. | malwaredllc | 8268 |
 | 112 |  [UsefulManagementApiTools](https://github.com/CheckPointSW/UsefulManagementApiTools) | Check Point Useful Management API Tools contain scripts and tools that were used as solutions for customers. | CheckPointSW | 11 |
-| 113 |  [aws-cli](https://github.com/aws/aws-cli) | Universal Command Line Interface for Amazon Web Services | aws | 13686 |
+| 113 |  [aws-cli](https://github.com/aws/aws-cli) | Universal Command Line Interface for Amazon Web Services | aws | 13687 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -558,7 +558,7 @@
 | 5 |  [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) | A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site&#39;s content. | jekyll | 1512 |
 | 6 |  [evil-winrm](https://github.com/Hackplayers/evil-winrm) | The ultimate WinRM shell for hacking/pentesting | Hackplayers | 3415 |
 | 7 |  [wpscan](https://github.com/wpscanteam/wpscan) | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com | wpscanteam | 7504 |
-| 8 |  [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | rapid7 | 30079 |
+| 8 |  [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | rapid7 | 30080 |
 | 9 |  [OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) | :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report | noraj | 2830 |
 
 **[⬆ Back to Index](#-contents)**
@@ -568,11 +568,11 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [Rocket](https://github.com/SergioBenitez/Rocket) | A web framework for Rust. | SergioBenitez | 20453 |
 | 2 |  [Ares](https://github.com/bee-san/Ares) | Automated decoding of encrypted text without knowing the key or ciphers used | bee-san | 217 |
-| 3 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 40912 |
+| 3 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 40909 |
 | 4 |  [rustdesk](https://github.com/rustdesk/rustdesk) | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | rustdesk | 41030 |
 | 5 |  [feroxbuster](https://github.com/epi052/feroxbuster) | A fast, simple, recursive content discovery tool written in Rust. | epi052 | 4130 |
 | 6 |  [scrying](https://github.com/nccgroup/scrying) | A tool for collecting RDP, web and VNC screenshots all in one place | nccgroup | 371 |
-| 7 |  [chainsaw](https://github.com/WithSecureLabs/chainsaw) | Rapidly Search and Hunt through Windows Forensic Artefacts | WithSecureLabs | 2001 |
+| 7 |  [chainsaw](https://github.com/WithSecureLabs/chainsaw) | Rapidly Search and Hunt through Windows Forensic Artefacts | WithSecureLabs | 2000 |
 | 8 |  [RustScan](https://github.com/RustScan/RustScan) | 🤖 The Modern Port Scanner 🤖 | RustScan | 9776 |
 
 **[⬆ Back to Index](#-contents)**
@@ -649,13 +649,13 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [Hack-Tools](https://github.com/LasCC/Hack-Tools) | The all-in-one Red Team extension for Web Pentester 🛠 | LasCC | 4567 |
 | 2 |  [interactsh-web](https://github.com/projectdiscovery/interactsh-web) | Web dashboard for Interactsh client | projectdiscovery | 135 |
-| 3 |  [altair](https://github.com/altair-graphql/altair) | ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. | altair-graphql | 4674 |
+| 3 |  [altair](https://github.com/altair-graphql/altair) | ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. | altair-graphql | 4673 |
 | 4 |  [npm-gui](https://github.com/q-nick/npm-gui) | Graphic tool for managing javascript project dependencies - in a friendly way. | q-nick | 605 |
 | 5 |  [styled-components](https://github.com/styled-components/styled-components) | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 | styled-components | 38661 |
-| 6 |  [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. | appwrite | 30850 |
+| 6 |  [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. | appwrite | 30851 |
 | 7 |  [gitpop3](https://github.com/AndreMiras/gitpop3) | Find the most popular fork on GitHub | AndreMiras | 101 |
 | 8 |  [vscode-extension](https://github.com/snyk/vscode-extension) | Snyk extension for Visual Studio Code | snyk | 50 |
-| 9 |  [RedisInsight](https://github.com/RedisInsight/RedisInsight) | Redis GUI by Redis | RedisInsight | 2825 |
+| 9 |  [RedisInsight](https://github.com/RedisInsight/RedisInsight) | Redis GUI by Redis | RedisInsight | 2826 |
 | 10 |  [zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) | A simple text editor Zoom App that demonstrates Collaborate Mode | zoom | 13 |
 | 11 |  [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | foambubble | 13670 |
 | 12 |  [RESTool](https://github.com/dsternlicht/RESTool) | RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example: | dsternlicht | 442 |
