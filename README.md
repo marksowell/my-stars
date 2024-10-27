@@ -64,7 +64,7 @@
 | 4 |  [proxychains](https://github.com/haad/proxychains) | proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: &#34;user/pass&#34; for SOCKS4/5, &#34;basic&#34; for HTTP. | haad | 6621 |
 | 5 |  [massdns](https://github.com/blechschmidt/massdns) | A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration) | blechschmidt | 3160 |
 | 6 |  [palera1n](https://github.com/palera1n/palera1n) | Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher. | palera1n | 4997 |
-| 7 |  [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero | UberGuidoZ | 13777 |
+| 7 |  [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero | UberGuidoZ | 13778 |
 | 8 |  [flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | RogueMaster Flipper Zero Firmware | RogueMaster | 5259 |
 | 9 |  [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware | DarkFlippers | 17352 |
 | 10 |  [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware source code | flipperdevices | 12760 |
@@ -87,7 +87,7 @@
 | 27 |  [mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) | OpenID Certified™ OpenID Connect Relying Party implementation for Apache HTTP Server 2.x | OpenIDC | 985 |
 | 28 |  [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | robertdavidgraham | 23573 |
 | 29 |  [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) | windows-kernel-exploits   Windows平台提权漏洞集合 | SecWiki | 8083 |
-| 30 |  [hashcat](https://github.com/hashcat/hashcat) | World&#39;s fastest and most advanced password recovery utility | hashcat | 21168 |
+| 30 |  [hashcat](https://github.com/hashcat/hashcat) | World&#39;s fastest and most advanced password recovery utility | hashcat | 21169 |
 | 31 |  [fio](https://github.com/axboe/fio) | Flexible I/O Tester | axboe | 5246 |
 
 **[⬆ Back to Index](#-contents)**
@@ -133,7 +133,7 @@
 ## CMake
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | microsoft | 23094 |
+| 1 |  [vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | microsoft | 23095 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -154,7 +154,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [macos_ui](https://github.com/macosui/macos_ui) | Flutter widgets and themes implementing the current macOS design language. | macosui | 1858 |
 | 2 |  [awesome-flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | Solido | 53504 |
-| 3 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 165732 |
+| 3 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 165733 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -189,7 +189,7 @@
 | 18 |  [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find, verify, and analyze leaked credentials | trufflesecurity | 16000 |
 | 19 |  [dalfox](https://github.com/hahwul/dalfox) | 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. | hahwul | 3729 |
 | 20 |  [subjack](https://github.com/haccer/subjack) | Subdomain Takeover tool written in Go | haccer | 1905 |
-| 21 |  [nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | projectdiscovery | 20457 |
+| 21 |  [nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | projectdiscovery | 20458 |
 | 22 |  [dnsmorph](https://github.com/netevert/dnsmorph) | Domain name permutation engine written in Go | netevert | 258 |
 | 23 |  [evilginx2](https://github.com/kgretzky/evilginx2) | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication | kgretzky | 10832 |
 | 24 |  [osmedeus](https://github.com/j3ssie/osmedeus) | A Workflow Engine for Offensive Security | j3ssie | 5326 |
@@ -202,11 +202,11 @@
 | 31 |  [httprobe](https://github.com/tomnomnom/httprobe) | Take a list of domains and probe for working HTTP and HTTPS servers | tomnomnom | 2856 |
 | 32 |  [xsshell](https://github.com/raz-varren/xsshell) | An XSS reverse shell framework | raz-varren | 303 |
 | 33 |  [reverse-scan](https://github.com/amine7536/reverse-scan) | Perform reverse DNS lookups on huge network ranges | amine7536 | 23 |
-| 34 |  [ffuf](https://github.com/ffuf/ffuf) | Fast web fuzzer written in Go | ffuf | 12544 |
+| 34 |  [ffuf](https://github.com/ffuf/ffuf) | Fast web fuzzer written in Go | ffuf | 12545 |
 | 35 |  [gophish](https://github.com/gophish/gophish) | Open-Source Phishing Toolkit | gophish | 11392 |
 | 36 |  [amass](https://github.com/owasp-amass/amass) | In-depth attack surface mapping and asset discovery | owasp-amass | 11982 |
 | 37 |  [aquatone](https://github.com/michenriksen/aquatone) | A Tool for Domain Flyovers | michenriksen | 5631 |
-| 38 |  [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | syncthing | 64873 |
+| 38 |  [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | syncthing | 64874 |
 | 39 |  [vuls](https://github.com/future-architect/vuls) | Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices | future-architect | 10959 |
 | 40 |  [gobuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go | OJ | 9954 |
 | 41 |  [waybackurls](https://github.com/tomnomnom/waybackurls) | Fetch all the URLs that the Wayback Machine knows about for a domain | tomnomnom | 3508 |
@@ -276,11 +276,11 @@
 | 7 |  [team-chat-shortcut-sample](https://github.com/zoom/team-chat-shortcut-sample) | This repository contains a Node.js application that allows you to create a Zoom Team Chat App for managing recordings. Follow the instructions below to set up and run the application. | zoom | 5 |
 | 8 |  [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects | elsewhencode | 29398 |
 | 9 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 91649 |
-| 10 |  [pwndoc](https://github.com/pwndoc/pwndoc) | Pentest Report Generator | pwndoc | 2266 |
+| 10 |  [pwndoc](https://github.com/pwndoc/pwndoc) | Pentest Report Generator | pwndoc | 2267 |
 | 11 |  [zoomapps-serverless-vuejs](https://github.com/zoom/zoomapps-serverless-vuejs) | A Serverless Zoom App built on Firebase for Zoomtopia 2022 and beyond! | zoom | 6 |
-| 12 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 23710 |
+| 12 |  [shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | badges | 23711 |
 | 13 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 76434 |
-| 14 |  [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | expressjs | 65520 |
+| 14 |  [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | expressjs | 65519 |
 | 15 |  [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated auditing, performance metrics, and best practices for the web. | GoogleChrome | 28325 |
 | 16 |  [Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) |  | trufflesecurity | 365 |
 | 17 |  [frida-ios-hook](https://github.com/noobpk/frida-ios-hook) | A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform | noobpk | 912 |
@@ -317,7 +317,7 @@
 ## Jupyter Notebook
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | The-Art-of-Hacking | 18726 |
+| 1 |  [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | The-Art-of-Hacking | 18727 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -348,7 +348,7 @@
 ## Meson
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [frida](https://github.com/frida/frida) | Clone this repo to build Frida | frida | 16057 |
+| 1 |  [frida](https://github.com/frida/frida) | Clone this repo to build Frida | frida | 16058 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -386,9 +386,9 @@
 | 16 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 48112 |
 | 17 |  [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | wasabeef | 50571 |
 | 18 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 58323 |
-| 19 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 84354 |
-| 20 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 330427 |
-| 21 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 200413 |
+| 19 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 84355 |
+| 20 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 330428 |
+| 21 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 200416 |
 | 22 |  [ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) | Orange Cyberdefense mindmaps | Orange-Cyberdefense | 1022 |
 | 23 |  [zoom-sdk-android](https://github.com/zoom/zoom-sdk-android) | Zoom Android SDK | zoom | 156 |
 | 24 |  [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) | A list of resources for those interested in getting started in bug bounties | nahamsec | 10717 |
@@ -409,7 +409,7 @@
 | 39 |  [my-stars](https://github.com/marksowell/my-stars) | A curated list of my GitHub stars by stargazed | marksowell | 3 |
 | 40 |  [TCM-Security-Sample-Pentest-Report](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report) | Sample pentest report provided by TCM Security | hmaverickadams | 1086 |
 | 41 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 83 |
-| 42 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 147119 |
+| 42 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 147121 |
 | 43 |  [Sharepoint-URL-Fuzzlist](https://github.com/XalfiE/Sharepoint-URL-Fuzzlist) |  | XalfiE | 28 |
 | 44 |  [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) | Potentially dangerous files | Bo0oM | 2877 |
 | 45 |  [Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads) | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Here is a simple way to evade anti-virus software when creating backdoors! | RoseSecurity | 693 |
@@ -461,14 +461,14 @@
 | 1 |  [RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | Red Teaming Tactics and Techniques | mantvydasb | 4030 |
 | 2 |  [toolbox](https://github.com/royalapplications/toolbox) | This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal Apps team or contributions from our great user-base! | royalapplications | 150 |
 | 3 |  [DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) | DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS! | dafthack | 1773 |
-| 4 |  [Empire](https://github.com/BC-SECURITY/Empire) | Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers. | BC-SECURITY | 4236 |
+| 4 |  [Empire](https://github.com/BC-SECURITY/Empire) | Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers. | BC-SECURITY | 4235 |
 | 5 |  [Security-Datasets](https://github.com/OTRF/Security-Datasets) | Re-play Security Events | OTRF | 1601 |
 | 6 |  [luckystrike](https://github.com/curi0usJack/luckystrike) | A PowerShell based utility for the creation of malicious Office macro documents. | curi0usJack | 1099 |
 | 7 |  [PSSW100AVB](https://github.com/tihanyin/PSSW100AVB) | A list of useful Powershell scripts with 100% AV bypass (At the time of publication). | tihanyin | 1000 |
 | 8 |  [Ninja](https://github.com/ahmedkhlief/Ninja) | Open source C2 server created for stealth red team operations | ahmedkhlief | 776 |
 | 9 |  [MailSniper](https://github.com/dafthack/MailSniper) | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain. | dafthack | 2925 |
 | 10 |  [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) |  | S3cur3Th1sSh1t | 1519 |
-| 11 |  [PrivescCheck](https://github.com/itm4n/PrivescCheck) | Privilege Escalation Enumeration Script for Windows | itm4n | 2942 |
+| 11 |  [PrivescCheck](https://github.com/itm4n/PrivescCheck) | Privilege Escalation Enumeration Script for Windows | itm4n | 2943 |
 | 12 |  [attack-arsenal](https://github.com/mitre-attack/attack-arsenal) | A collection of red team and adversary emulation resources developed and released by MITRE. | mitre-attack | 491 |
 | 13 |  [JAWS](https://github.com/411Hall/JAWS) | JAWS - Just Another Windows (Enum) Script | 411Hall | 1686 |
 | 14 |  [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin | BloodHoundAD | 9846 |
@@ -500,7 +500,7 @@
 | 5 |  [lsassy](https://github.com/login-securite/lsassy) | Extract credentials from lsass remotely | login-securite | 2044 |
 | 6 |  [krbrelayx](https://github.com/dirkjanm/krbrelayx) | Kerberos unconstrained delegation abuse toolkit | dirkjanm | 1130 |
 | 7 |  [drozer](https://github.com/WithSecureLabs/drozer) | The Leading Security Assessment Framework for Android. | WithSecureLabs | 3900 |
-| 8 |  [restler-fuzzer](https://github.com/microsoft/restler-fuzzer) | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | microsoft | 2601 |
+| 8 |  [restler-fuzzer](https://github.com/microsoft/restler-fuzzer) | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | microsoft | 2600 |
 | 9 |  [praetorian-mastermind](https://github.com/marksowell/praetorian-mastermind) | Praetorian Tech Challenge - Mastermind | marksowell | 1 |
 | 10 |  [ghauri](https://github.com/r0oth3x49/ghauri) | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | r0oth3x49 | 3042 |
 | 11 |  [subfuz](https://github.com/netsecurity-as/subfuz) | A subdomain fuzzing tool | netsecurity-as | 147 |
@@ -508,7 +508,7 @@
 | 13 |  [Spoofy](https://github.com/MattKeeley/Spoofy) | Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records. | MattKeeley | 624 |
 | 14 |  [Certipy](https://github.com/ly4k/Certipy) | Tool for Active Directory Certificate Services enumeration and abuse | ly4k | 2381 |
 | 15 |  [Villain](https://github.com/t3l3machus/Villain) | Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP &amp; HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines). | t3l3machus | 3773 |
-| 16 |  [faraday](https://github.com/infobyte/faraday) | Open Source Vulnerability Management Platform | infobyte | 5020 |
+| 16 |  [faraday](https://github.com/infobyte/faraday) | Open Source Vulnerability Management Platform | infobyte | 5021 |
 | 17 |  [androguard](https://github.com/androguard/androguard) | Reverse engineering and pentesting for Android applications | androguard | 5243 |
 | 18 |  [PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | AzeemIdrisi | 4696 |
 | 19 |  [aws-account-finder](https://github.com/marksowell/aws-account-finder) | Find an AWS Account ID from any S3 Bucket | marksowell | 2 |
@@ -516,7 +516,7 @@
 | 21 |  [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) | &#34;Can I take over XYZ?&#34; — a list of services and how to claim (sub)domains with dangling DNS records. | EdOverflow | 4826 |
 | 22 |  [malicious-pdf](https://github.com/jonaslejon/malicious-pdf) | 💀 Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh | jonaslejon | 2855 |
 | 23 |  [dnschef](https://github.com/iphelix/dnschef) | DNSChef - DNS proxy for Penetration Testers and Malware Analysts | iphelix | 893 |
-| 24 |  [capa](https://github.com/mandiant/capa) | The FLARE team&#39;s open-source tool to identify capabilities in executable files. | mandiant | 4824 |
+| 24 |  [capa](https://github.com/mandiant/capa) | The FLARE team&#39;s open-source tool to identify capabilities in executable files. | mandiant | 4825 |
 | 25 |  [keyring_secret_manager](https://github.com/guerreroag12/keyring_secret_manager) |  | guerreroag12 | 1 |
 | 26 |  [pipx](https://github.com/pypa/pipx) | Install and Run Python Applications in Isolated Environments | pypa | 10394 |
 | 27 |  [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) | swisskyrepo | 1378 |
@@ -532,7 +532,7 @@
 | 37 |  [Findings-Tracker](https://github.com/marksowell/Findings-Tracker) | Burp Suite extension designed to help security professionals manage and track web application security findings | marksowell | 1 |
 | 38 |  [Info-Leakage](https://github.com/marksowell/Info-Leakage) | Burp Suite extension designed to help security professionals search for custom sensitive information in HTTP responses | marksowell | 7 |
 | 39 |  [Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) | A simple tool for bypassing file upload restrictions. | sAjibuu | 779 |
-| 40 |  [awesome-python](https://github.com/vinta/awesome-python) | An opinionated list of awesome Python frameworks, libraries, software and resources. | vinta | 222840 |
+| 40 |  [awesome-python](https://github.com/vinta/awesome-python) | An opinionated list of awesome Python frameworks, libraries, software and resources. | vinta | 222842 |
 | 41 |  [commix](https://github.com/commixproject/commix) | Automated All-in-One OS Command Injection Exploitation Tool. | commixproject | 4576 |
 | 42 |  [toxssin](https://github.com/t3l3machus/toxssin) | An XSS exploitation command-line interface and payload generator. | t3l3machus | 1252 |
 | 43 |  [firebaseEnum](https://github.com/Sambal0x/firebaseEnum) | Tool to mass analyse potentially exposed Firebase databases on Android apps | Sambal0x | 52 |
@@ -576,7 +576,7 @@
 | 81 |  [lu3ky13-SCANNER](https://github.com/Lu3ky13/lu3ky13-SCANNER) | tools to find xss in a website | Lu3ky13 | 53 |
 | 82 |  [Corsy](https://github.com/s0md3v/Corsy) | CORS Misconfiguration Scanner | s0md3v | 1367 |
 | 83 |  [lure](https://github.com/highmeh/lure) | Lure - User Recon Automation for GoPhish | highmeh | 157 |
-| 84 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | yt-dlp | 86106 |
+| 84 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | yt-dlp | 86108 |
 | 85 |  [EyeWitness](https://github.com/RedSiege/EyeWitness) | EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible. | RedSiege | 4959 |
 | 86 |  [dnsrecon](https://github.com/darkoperator/dnsrecon) | DNS Enumeration Script | darkoperator | 2626 |
 | 87 |  [swaggerHole](https://github.com/Liodeus/swaggerHole) | A python3 script searching for secret on swaggerhub | Liodeus | 58 |
@@ -585,7 +585,7 @@
 | 90 |  [macro_pack](https://github.com/sevagas/macro_pack) | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. | sevagas | 2177 |
 | 91 |  [hacktricks](https://github.com/HackTricks-wiki/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | HackTricks-wiki | 8948 |
 | 92 |  [Worse-PDF](https://github.com/3gstudent/Worse-PDF) | Turn a normal PDF file into malicious.Use to steal Net-NTLM Hashes from windows machines. | 3gstudent | 339 |
-| 93 |  [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | FlareSolverr | 7657 |
+| 93 |  [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | FlareSolverr | 7658 |
 | 94 |  [DNSStager](https://github.com/mhaskar/DNSStager) | Hide your payload in DNS | mhaskar | 603 |
 | 95 |  [NSGenCS](https://github.com/t3hbb/NSGenCS) | Extendable payload obfuscation and delivery framework | t3hbb | 141 |
 | 96 |  [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper) | AttackSurfaceMapper is a tool that aims to automate the reconnaissance process. | superhedgy | 1314 |
@@ -673,7 +673,7 @@
 | 5 |  [Rocket](https://github.com/rwf2/Rocket) | A web framework for Rust. | rwf2 | 24447 |
 | 6 |  [Ares](https://github.com/bee-san/Ares) | Automated decoding of encrypted text without knowing the key or ciphers used | bee-san | 564 |
 | 7 |  [binwalk](https://github.com/ReFirmLabs/binwalk) | Firmware Analysis Tool | ReFirmLabs | 11033 |
-| 8 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 49373 |
+| 8 |  [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | sharkdp | 49374 |
 | 9 |  [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | rustdesk | 74658 |
 | 10 |  [asciinema](https://github.com/asciinema/asciinema) | Terminal session recorder 📹 | asciinema | 14125 |
 | 11 |  [feroxbuster](https://github.com/epi052/feroxbuster) | A fast, simple, recursive content discovery tool written in Rust. | epi052 | 5907 |
@@ -705,7 +705,7 @@
 | 3 |  [RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS) | RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs) | RedTeamOperations | 577 |
 | 4 |  [burp-collaborator-deploy](https://github.com/marksowell/burp-collaborator-deploy) | Deploy a Private Burp Collaborator server with a wildcard Let&#39;s Encrypt SSL certificate including automatic renewal for advanced penetration testing. Includes scripts and guides for a seamless cloud deployment process. | marksowell | 1 |
 | 5 |  [RP4MobSF](https://github.com/MobSF/RP4MobSF) | a nginx reverse proxy with ssl and auth for MobSF | MobSF | 24 |
-| 6 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 79767 |
+| 6 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 79768 |
 | 7 |  [Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) | The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated. | IvanGlinkin | 1446 |
 | 8 |  [ios-reloader](https://github.com/darklotuskdb/ios-reloader) | The iOS Reloader is a weaponizing tool for jailbroken iOS devices. It facilitates the installation of a collection of tools on iOS devices (iPhone/iPad) that are essential for penetration testing purposes. | darklotuskdb | 9 |
 | 9 |  [ios_triage](https://github.com/RealityNet/ios_triage) | Bash script to extract data from a &#34;chekcra1ned&#34; iOS device | RealityNet | 137 |
@@ -772,7 +772,7 @@
 | 4 |  [milkdown](https://github.com/Milkdown/milkdown) | 🍼 Plugin driven WYSIWYG  markdown editor framework. | Milkdown | 8920 |
 | 5 |  [homebridge](https://github.com/homebridge/homebridge) | HomeKit support for the impatient. | homebridge | 23983 |
 | 6 |  [vscode-runme](https://github.com/stateful/vscode-runme) | DevOps Notebooks Built with Markdown - VS Code extension | stateful | 195 |
-| 7 |  [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox | puppeteer | 88608 |
+| 7 |  [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox | puppeteer | 88609 |
 | 8 |  [S3BucketList](https://github.com/AlecBlance/S3BucketList) | Chrome extension that lists Amazon S3 Buckets while browsing | AlecBlance | 74 |
 | 9 |  [requestly](https://github.com/requestly/requestly) | Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000+ front-end developers and 11,000+ companies worldwide. | requestly | 2471 |
 | 10 |  [HackTools](https://github.com/LasCC/HackTools) | The all-in-one browser extension for offensive security professionals 🛠 | LasCC | 5803 |
@@ -788,7 +788,7 @@
 | 20 |  [zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) | A simple text editor Zoom App that demonstrates Collaborate Mode | zoom | 18 |
 | 21 |  [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | foambubble | 15401 |
 | 22 |  [RESTool](https://github.com/dsternlicht/RESTool) | RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example: | dsternlicht | 479 |
-| 23 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 68248 |
+| 23 |  [code-server](https://github.com/coder/code-server) | VS Code in the browser | coder | 68251 |
 | 24 |  [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | slidevjs | 33162 |
 | 25 |  [vscode-autohide](https://github.com/sirmspencer/vscode-autohide) |  | sirmspencer | 54 |
 | 26 |  [juice-shop](https://github.com/juice-shop/juice-shop) | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application | juice-shop | 10383 |
